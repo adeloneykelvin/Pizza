@@ -1,2 +1,2 @@
-# Pizza-main-first-github-assignment
+# Pizza
 First Github/Thinkful assignment
